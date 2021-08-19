@@ -1,5 +1,5 @@
-![Juice's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juicesyo&count_private=true)
-
+<!--![Juice's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juicesyo&count_private=true)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juicesyo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Juicesyo/Juicesyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
